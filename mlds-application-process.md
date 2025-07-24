@@ -1,0 +1,15 @@
+# MLDS Application Process
+
+In order to get access to the international edition of SNOMED CT and its derivatives, you will need to register and apply for an account. Each application is reviewed by the IHTSDO and follows these steps:
+
+### Primary Application - applies only to SNOMED CT International and its derivatives
+
+  1. An application is made by user providing information such as type of license requested, proposed or current use of SNOMED CT and the non-member countries where it is being used
+  2. The application is reviewed by IHTSDO staff, and if applicable, an invoice will be sent based up on the usage of SNOMED CT as detailed in the Affiliate License Agreement **(<http://www.ihtsdo.org/resource/resource/117>).** Your account will be put in a pending invoice (payment?) status and you will be able to log in to your account to see the status.
+  3. If an invoice has been raised, you will need to send payment for the invoice before you are able to access and download SNOMED CT. Once payment has been received, or if there is no need for an invoice, your account will be put into a 'good standing' status and you will be able download the relevant releases.
+  4. At the end of each year, you will be asked to provide an update on the usage of SNOMED CT in order to continue to have access to the release packages.
+
+### Extension Application - applies to any other extension, release or derivative other than SNOMED CT, for example an IHTSDO Member's extension
+
+  1. An application can be made for any other extension, release or derivative other than SNOMED CT while their primary application is under review. Once the application is submitted it will follow the same process as above going into an initial state of Pending until the Member Admin approves that extension application and thier Primary application status changes to "in Good Standing" with payment complete before any downloads are available.
+
