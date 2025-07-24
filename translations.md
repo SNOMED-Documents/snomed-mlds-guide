@@ -28,108 +28,53 @@ This file below is the version which should be translated. However, the followin
 
 By ignoring the above sections, the staff/admin interface will remain in English.
 
-[<figure><img src="download/resources/com.atlassian.confluence.plugins.confluence-view-file-macro:view-file-macro-resources/images/placeholder-small-file.png" alt="" title=""><figcaption><p>Please download the relevant file and once translated, send back to [techsupport@ihtsdo.org](mailto:techsupport@ihtsdo.org) to be uploaded to the MLDS test server.</p></figcaption></figure>en.json](/download/attachments/5505183/en.json?version=7&modificationDate=1612854687000&api=v2)
+\[
 
-Other translation files can be found here - <https://github.com/IHTSDO/MLDS/tree/master/src/main/webapp/i18n> .
+<figure><img src="download/resources/com.atlassian.confluence.plugins.confluence-view-file-macro:view-file-macro-resources/images/placeholder-small-file.png" alt=""><figcaption><p>Please download the relevant file and once translated, send back to <a href="mailto:techsupport@ihtsdo.org">techsupport@ihtsdo.org</a> to be uploaded to the MLDS test server.</p></figcaption></figure>
+
+en.json]\(/download/attachments/5505183/en.json?version=7\&modificationDate=1612854687000\&api=v2)
+
+Other translation files can be found here - [https://github.com/IHTSDO/MLDS/tree/master/src/main/webapp/i18n](https://github.com/IHTSDO/MLDS/tree/master/src/main/webapp/i18n) .
 
 If you have any questions, please don't hesitate to get in touch with [techsupport@ihtsdo.org](mailto:techsupport@ihtsdo.org) where we will help where we can.
 
 ## How to translate
 
-If you would like to run locally on your desktop, you can use a plain text editor. In the file you will a long list of labels with the existing English translation. Each label which needs to be translated is represented with the label being on the left with the phrase to be translated on the right, i.e.
-[code] 
-    label:language
-    e.g.
-    "help":"Aide" for French
-    or
-    "help":"Help" for English
-[/code]
+If you would like to run locally on your desktop, you can use a plain text editor. In the file you will a long list of labels with the existing English translation. Each label which needs to be translated is represented with the label being on the left with the phrase to be translated on the right, i.e. \[code] label:language e.g. "help":"Aide" for French or "help":"Help" for English \[/code]
 
-_**Note that text contained within angle brackets ( < >) is for formatting and does not need to be translated. **_
+_\*\*Note that text contained within angle brackets ( < >) is for formatting and does not need to be translated. \*\*_
 
 ### Example
 
-The following block is an example of the first part of the file containing the English version in order to demonstrate what you need to translate. 
+The following block is an example of the first part of the file containing the English version in order to demonstrate what you need to translate.
 
-**en.json**
-[code] 
-    {
-    	"global":{
-    		"title":"mlds",
-    		"browsehappy":"You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/?locale=en\">upgrade your browser</a> to improve your experience.",
-    		"menu":{
-    			"home":"Home",
-    			"account":{
-    				"main":"Account",
-    				"contactInfo":"Contact Info",
-    				"password":"Password",
-    				"sessions":"Sessions",
-    				"tracker":"User tracker",
-    				"metrics":"Metrics",
-    				"logs":"Logs",
-    				"audits":"Audits",
-    				"login":"Login",
-    				"logout":"Log out",
-    				"apidocs":"API",
-    				"register":"Register",
-    				"affiliates":"Affiliates",
-    				"dashboard":"Dashboard"
-    			},
-    ...
-[/code]
+**en.json** \[code] { "global":{ "title":"mlds", "browsehappy":"You are using an **outdated** browser. Please \<a href="http://browsehappy.com/?locale=en">upgrade your browser to improve your experience.", "menu":{ "home":"Home", "account":{ "main":"Account", "contactInfo":"Contact Info", "password":"Password", "sessions":"Sessions", "tracker":"User tracker", "metrics":"Metrics", "logs":"Logs", "audits":"Audits", "login":"Login", "logout":"Log out", "apidocs":"API", "register":"Register", "affiliates":"Affiliates", "dashboard":"Dashboard" }, ... \[/code]
 
-The next block is the same lines, but in the (machine translated) French version, **note that text contained within angle brackets ( < >) is for formatting and does not need to be translated. **
+The next block is the same lines, but in the (machine translated) French version, \*\*note that text contained within angle brackets ( < >) is for formatting and does not need to be translated. \*\*
 
-**fr.json**
-[code] 
-    {
-    	"global":{
-    		"title":"MLDS",
-    		"browsehappy":"Vous utilisez un navigateur <strong>désuet</strong>. <a href=\"http://browsehappy.com/?locale=en\"> Mise à niveau </a> de votre navigateur pour améliorer votre expérience .",
-    		"menu":{
-    			"home":"Home",
-    			"account":{
-    				"main":"Compte",
-    				"contactInfo":"Coordonnées",
-    				"password":"Mot de passe",
-    				"sessions":"Sessions",
-    				"tracker":"Tracker Utilisateur",
-    				"metrics":"Métriques",
-    				"logs":"Logs",
-    				"audits":"Audits",
-    				"login":"Connexion",
-    				"logout":"Déconnexion",
-    				"apidocs":"API",
-    				"register":"Inscription",
-    				"affiliates":"Affiliés",
-    				"dashboard":"Table au Debord"
-    			},
-    ...
-[/code]
+**fr.json** \[code] { "global":{ "title":"MLDS", "browsehappy":"Vous utilisez un navigateur **désuet**. \<a href="http://browsehappy.com/?locale=en"> Mise à niveau de votre navigateur pour améliorer votre expérience .", "menu":{ "home":"Home", "account":{ "main":"Compte", "contactInfo":"Coordonnées", "password":"Mot de passe", "sessions":"Sessions", "tracker":"Tracker Utilisateur", "metrics":"Métriques", "logs":"Logs", "audits":"Audits", "login":"Connexion", "logout":"Déconnexion", "apidocs":"API", "register":"Inscription", "affiliates":"Affiliés", "dashboard":"Table au Debord" }, ... \[/code]
 
 ## Email Messages
 
 The following file also needs to be translated and contains the wording in the emails that get sent out.
 
-[<figure><img src="download/resources/com.atlassian.confluence.plugins.confluence-view-file-macro:view-file-macro-resources/images/placeholder-small-file.png" alt="" title=""><figcaption><p>Please download the file and once translated, send back to [techsupport@ihtsdo.org](mailto:techsupport@ihtsdo.org) to be uploaded to the MLDS test server.</p></figcaption></figure>messages_en.properties](/download/attachments/5505183/messages_en.properties?version=4&modificationDate=1612854724000&api=v2)
+\[
 
-Other existing email message translation files can be found here - <https://github.com/IHTSDO/MLDS/tree/master/src/main/resources/mails/messages>
+<figure><img src="download/resources/com.atlassian.confluence.plugins.confluence-view-file-macro:view-file-macro-resources/images/placeholder-small-file.png" alt=""><figcaption><p>Please download the file and once translated, send back to <a href="mailto:techsupport@ihtsdo.org">techsupport@ihtsdo.org</a> to be uploaded to the MLDS test server.</p></figcaption></figure>
 
-  
+messages\_en.properties]\(/download/attachments/5505183/messages\_en.properties?version=4\&modificationDate=1612854724000\&api=v2)
 
-The file format is slightly different and is as follows:
-[code] 
-    label=language
-    e.g.
-    activation.greeting=Cher {0} (for French)
-    or
-    activation.greeting=Dear {0} (for English)
-[/code]
+Other existing email message translation files can be found here - [https://github.com/IHTSDO/MLDS/tree/master/src/main/resources/mails/messages](https://github.com/IHTSDO/MLDS/tree/master/src/main/resources/mails/messages)
+
+The file format is slightly different and is as follows: \[code] label=language e.g. activation.greeting=Cher {0} (for French) or activation.greeting=Dear {0} (for English) \[/code]
 
 ## Other Files
 
 The following files may also need to be translated to be added to the site, mainly around terms & conditions and the affiliate license. This is a more straightforward translating of the contents of the files but the choice to translate these files is up to the Member country.
 
-Terms of Service - [<figure><img src="rest/documentConversion/latest/conversion/thumbnail/6161098/1" alt="" title=""></figure>](/download/attachments/5505183/tos.txt?version=1&modificationDate=1426499521000&api=v2)
+Terms of Service -
 
-Affiliate License - [<figure><img src="rest/documentConversion/latest/conversion/thumbnail/6161099/1" alt="" title=""></figure>](/download/attachments/5505183/IHTSDO%20Affiliate%20Licence%20Agreement-1.pdf?version=1&modificationDate=1426499582000&api=v2)
+
+
+Affiliate License -
+
