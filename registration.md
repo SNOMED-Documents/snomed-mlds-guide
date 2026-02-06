@@ -2,19 +2,19 @@
 
 * The landing page for affiliates looking to use SNOMED CT in non-member countries can be found here – [https://mlds.ihtsdotools.org](https://mlds.ihtsdotools.org)
 
-<figure><img src="images/4292624.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4292624.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 1. Initial Registration
 
 * Click on the Register button and you will be taken to the initial registration screen.
 
-<figure><img src="images/4292620.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4292620.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2. Account Activation
 
 * Once you have completed the initial registration, you will be sent an Account Activation email to confirm your email address and allow you to continue your registration. In the email you receive, is the confirmation URL which will take you to the next step:
 
-<figure><img src="images/4292631.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4292631.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3. Registration Details
 
@@ -38,25 +38,25 @@
 * Next, you will be asked to provide information about yourself or your organization as well as a billing address (if applicable) for invoices to be sent.
 * Your current and planned usage for the current year needs to be provided, along with a summary of the purpose of your SNOMED CT deployment and the status of implementation.
 
-<figure><img src="images/4292611.png" alt=""><figcaption><p><em>The usage section then needs to be completed in order to get access to download SNOMED CT. You will be asked for the countries where the product will be used. Your Home Country that you have initially registered with will be automatically added, however you will need to select and add any other non-member country in which you plan to use SNOMED CT.</em> You should only be able to select non-member countries at this stage. Currently you are able to select member countries, do note that this is a bug in the system which we are working on correcting. You should not enter any countries that are currently members of the IHTSDO._**</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4292611.png" alt=""><figcaption><p><em>The usage section then needs to be completed in order to get access to download SNOMED CT. You will be asked for the countries where the product will be used. Your Home Country that you have initially registered with will be automatically added, however you will need to select and add any other non-member country in which you plan to use SNOMED CT.</em> You should only be able to select non-member countries at this stage. Currently you are able to select member countries, do note that this is a bug in the system which we are working on correcting. You should not enter any countries that are currently members of the IHTSDO._**</p></figcaption></figure>
 
 **\_**\
 &#xNAN;**\_**
 
-<figure><img src="images/4292628.png" alt=""><figcaption><p>* The section below will be required information that will need to be provided for each country that you have selected.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4292628.png" alt=""><figcaption><p>* The section below will be required information that will need to be provided for each country that you have selected.</p></figcaption></figure>
 
-<figure><img src="images/4292629.png" alt=""><figcaption><p><em>You will be asked for the names of hospitals where SCT will be deployed and dates that the product was started in use and, if applicable, ceased usage. Please note the start date of use is a</em> mandatory _entry, you can add hospitals by clicking on the Add Hospital/Institution button which will take you to the entry screen below.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4292629.png" alt=""><figcaption><p><em>You will be asked for the names of hospitals where SCT will be deployed and dates that the product was started in use and, if applicable, ceased usage. Please note the start date of use is a</em> mandatory _entry, you can add hospitals by clicking on the Add Hospital/Institution button which will take you to the entry screen below.</p></figcaption></figure>
 
-<figure><img src="images/4292630.png" alt=""><figcaption><p>* You will also be asked for the number of practices (locations or premises) where SCT is in use (note that the practices do not have to be named, unlike for hospitals). You can add practices by clicking on the Edit Practices button which will take you to the entry screen below.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4292630.png" alt=""><figcaption><p>* You will also be asked for the number of practices (locations or premises) where SCT is in use (note that the practices do not have to be named, unlike for hospitals). You can add practices by clicking on the Edit Practices button which will take you to the entry screen below.</p></figcaption></figure>
 
-<figure><img src="images/4292632.png" alt=""><figcaption><p>* Along with each Hospital or Practice that is entered there will also be a section related to Staffing and Data Analysis use, which you can access by clicking the Edit Data Analysis button. The following definitions apply to terms used on this form:</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4292632.png" alt=""><figcaption><p>* Along with each Hospital or Practice that is entered there will also be a section related to Staffing and Data Analysis use, which you can access by clicking the Edit Data Analysis button. The following definitions apply to terms used on this form:</p></figcaption></figure>
 
 ```
 * Data Creation System - a system for the entry, processing and storage of data. 
 * Data Analysis System - a system for the collection, organization, analysis, interpretation and presentation of data.  
 ```
 
-<figure><img src="images/4292626.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4292626.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4. Registration Details
 
@@ -70,13 +70,13 @@
 
 * At this point, you will now be redirected to your dashboard, where you will be able to see the status of your application and the standing of your account.
 
-<figure><img src="images/4292633.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4292633.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 7. Account Status
 
 * Once your application has been reviewed and approved your Account Information Status will change to Pending Invoice as shown below.
 
-<figure><img src="images/4292634.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4292634.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 8. Full Access
 

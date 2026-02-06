@@ -47,34 +47,29 @@ List all release packages. \[code] $ curl -i 'https://mlds.ihtsdotools.org/api/r
 
 \[code] { "releasePackageId": 1911, "createdAt": "2015-10-14T13:49:09.163Z", "member": { "key": "SE" }, "name": "Sweden A", "description": "
 
-#### sweden a release.. 
+#### sweden a release..<br>
 
 ", "releaseVersions": \[{ "releaseVersionId": 1913, "createdAt": "2015-10-14T13:50:26.918Z", "name": "sweden a a 1", "description": "
 
-some kind of version\
-
+some kind of version<br>
 
 ", "online": true, "publishedAt": null, "releaseFiles": \[{ "releaseFileId": 1921, "label": "
 
-file2\
-
+file2<br>
 
 ", "createdAt": "2015-10-14T19:18:39.808Z", "clientDownloadUrl": "/api/releasePackages/1911/releaseVersions/1913/releaseFiles/1921/download" }, { "releaseFileId": 1919, "label": "
 
-file1\
-
+file1<br>
 
 ", "createdAt": "2015-10-14T19:18:30.628Z", "clientDownloadUrl": "/api/releasePackages/1911/releaseVersions/1913/releaseFiles/1919/download" }] }] }, { "releasePackageId": 5267, "createdAt": "2015-10-20T14:54:25.733Z", "member": { "key": "BE" }, "name": "Belgium A", "description": "
 
 AAAA
 
-\
-
+<br>
 
 ", "releaseVersions": \[{ "releaseVersionId": 5269, "createdAt": "2015-10-20T14:54:44.829Z", "name": "Belgium A 1", "description": "
 
-A 1\
-
+A 1<br>
 
 ", "online": true, "publishedAt": null, "releaseFiles": \[{ "releaseFileId": 5271, "label": null, "createdAt": "2015-10-20T14:55:01.955Z", "clientDownloadUrl": "/api/releasePackages/5267/releaseVersions/5269/releaseFiles/5271/download" }] }] }] \[/code]
 
@@ -119,8 +114,7 @@ A 1\
 
 \[code] { "releasePackageId": 211920, "createdAt": "2015-10-28T20:39:41.965Z", "member": { "key": "SE" }, "name": "Another Release", "description": "
 
-Another Description\
-
+Another Description<br>
 
 ", "releaseVersions": \[] } \[/code]
 
@@ -146,8 +140,7 @@ Another Description\
 
 \[/code] \[code] Response \[/code] \[code] { "releaseVersionId": 211924, "createdAt": "2015-10-28T20:48:21.796Z", "name": "First Version", "description": "
 
-First version description\
-
+First version description<br>
 
 ", "online": false, "publishedAt": "2015-10-28", "releaseFiles": \[] } \[/code] \[code] Create new Release File \[/code]
 
@@ -205,8 +198,7 @@ To publish a Release Version online the Release Version's online flag should be 
 
 \[code] { "releaseVersionId": 211924, "createdAt": "2015-10-28T20:48:21.796Z", "name": "First Version", "description": "
 
-First version description\
-
+First version description<br>
 
 ", "online": true, "publishedAt": "2015-10-29", "releaseFiles": \[{ "releaseFileId": 211928, "label": "
 
@@ -226,8 +218,7 @@ n/a
 
 \[code] { "releaseVersionId": 211924, "createdAt": "2015-10-28T20:48:21.796Z", "name": "First Version", "description": "
 
-First version description\
-
+First version description<br>
 
 ", "online": true, "publishedAt": "2015-10-29", "releaseFiles": \[{ "releaseFileId": 211928, "label": "
 
@@ -263,8 +254,7 @@ Where possible the response headers `Content-Disposition` and `Content-Type` are
 
 Given the existing published Release Package: \[code] { "releaseVersionId": 211924, "createdAt": "2015-10-28T20:48:21.796Z", "name": "First Version", "description": "
 
-First version description\
-
+First version description<br>
 
 ", "online": true, "publishedAt": "2015-10-29", "releaseFiles": \[{ "releaseFileId": 211928, "label": "
 

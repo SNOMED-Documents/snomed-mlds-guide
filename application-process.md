@@ -4,7 +4,4 @@ When new account applications arrive for IHTSDO processing in MLDS, they are eit
 
 The process diagram below shows how the two types of account requests are processed.
 
-  
-  
-
-<figure><img src="images/4292616.png" alt="" title=""></figure>
+<figure><img src=".gitbook/assets/4292616.png" alt=""><figcaption></figcaption></figure>
