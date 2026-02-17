@@ -13,7 +13,7 @@ If you want to download SNOMED CT, [please review where to get the release files
 #### Other Pages
 
 * [Preguntas Frecuentes](preguntas-frecuentes.md)
-* [MLDS Privacy Policy](mlds-privacy-policies.md)
+* [https://docs.snomed.org/snomed-ct-user-guides/mlds-user-guide/mlds-privacy-policies](mlds-privacy-policies.md)
 * [MLDS Terms of Service](mlds-terms-of-service.md)
 
 {% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
