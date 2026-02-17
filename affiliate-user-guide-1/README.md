@@ -6,6 +6,6 @@ For further details and questions around licensing, please read the following FA
 
 ### Other Pages
 
-* [MLDS Privacy Policies](../MLDS-Privacy-Policies_4555351.html)
-* [MLDS Terms of Service](../MLDS-Terms-of-Service_4555353.html)
-* [Preguntas Frecuentes](../Preguntas-Frecuentes_10092674.html)
+* [MLDS Privacy Policies](../mlds-privacy-policies.md)
+* [MLDS Terms of Service](../mlds-terms-of-service.md)
+* [Preguntas Frecuentes](../preguntas-frecuentes.md)
