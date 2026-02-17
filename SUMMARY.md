@@ -7,7 +7,7 @@
 * [Application and Account Status Meanings](application-and-account-status-meanings.md)
 * [Application Process](application-process.md)
 * [Downloading releases](downloading-releases.md)
-* [Member Affiliate Licensing Information](member-affiliate-licensing-information.md)
+* [Where to download SNOMED CT](member-affiliate-licensing-information.md)
 * [Member Management](member-management.md)
 * [MLDS Application Process](mlds-application-process.md)
 * [MLDS Privacy Policies](mlds-privacy-policies.md)

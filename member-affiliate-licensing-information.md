@@ -1,8 +1,8 @@
 ---
-description: Where to download SNOMED CT
+description: Member Affiliate Licensing Information
 ---
 
-# Member Affiliate Licensing Information
+# Where to download SNOMED CT
 
 If you wish to download either the International Edition of SNOMED CT or any local SNOMED CT extension to use within current SNOMED International Member territories, please see the list below and go to the relevant distribution location.&#x20;
 
