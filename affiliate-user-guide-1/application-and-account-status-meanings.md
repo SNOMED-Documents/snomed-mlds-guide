@@ -13,4 +13,4 @@
 3. De-Activation Pending - Flags an Affiliate account but they can not download releases, they have a certain time to respond to an IHTSDO action. They have access to their account.
 4. De-Activated - Affiliate Account is De-Activated for failure of payment or other infraction; they have no Access to download and have no access to their MLDS account. The reason for De-activation is noted to Affiliate.
 
-<figure><img src=".gitbook/assets/6849090.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6849090.png" alt=""><figcaption></figcaption></figure>

@@ -1,18 +1,19 @@
-# Affiliate User Guide
+# MLDS User Guide
 
-Users (Affiliates) need to Register with the MLDS system to deploy SNOMED CT in a non-member country. In order to do so, you will need to apply for an account on the MLDS and accept the terms of the affiliate license [from the IHTSDO web site](http://www.ihtsdo.org/resource/resource/117).
+The Member Licensing and Distribution Service (MLDS) is SNOMED International's online platform for managing SNOMED CT licensing and distributing SNOMED CT release packages. Available at [mlds.ihtsdotools.org](https://mlds.ihtsdotools.org/), MLDS provides a single point of access for individuals and organizations to register their use of SNOMED CT, apply for affiliate licenses, and download SNOMED CT editions and extensions.
 
-For further details, please read the following FAQs - [https://ihtsdo.freshdesk.com/support/solutions/4000002199](https://ihtsdo.freshdesk.com/support/solutions/4000002199)
+This guide provides step-by-step instructions for using the MLDS platform. It covers registration and the application process, navigating the site and downloading release packages, managing your account and understanding application statuses, submitting usage reports and statements of account, and accessing release packages via the MLDS API. Whether you are a first-time user registering for SNOMED CT access or an NRC administrator managing your country's releases, this guide will help you navigate the platform effectively.
 
-## Contents
+For further details about licensing and what type of license you need, [please read the SNOMED International FAQs](https://ihtsdo.freshdesk.com/support/solutions/4000002199).
 
-* [Member Affiliate Licensing Information](Member-Affiliate-Licensing-Information_8290312.html)
-* [MLDS Application Process](MLDS-Application-Process_3833898.html)
-* [Registration](Registration_3833899.html)
-* [Application and Account Status Meanings](Application-and-Account-Status-Meanings_3833945.html)
-* [Accessing releases](Accessing-releases_3833900.html)
-* [Downloading releases](Downloading-releases_3833901.html)
-* [Usage Reports](Usage-Reports_3833902.html)
-* [MLDS Privacy Policies](MLDS-Privacy-Policies_4555351.html)
-* [MLDS Terms of Service](MLDS-Terms-of-Service_4555353.html)
-* [Preguntas Frecuentes](Preguntas-Frecuentes_10092674.html)
+If you want to download SNOMED CT, [please review where to get the release files](member-affiliate-licensing-information.md).
+
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="affiliate-user-guide-1/">affiliate-user-guide-1</a></td></tr><tr><td><a href="administration-user-guide/">administration-user-guide</a></td></tr><tr><td><a href="developer-user-guide/">developer-user-guide</a></td></tr></tbody></table>
+
+#### Other Pages
+
+* [Preguntas Frecuentes](preguntas-frecuentes.md)
+* [MLDS Privacy Policy](mlds-privacy-policies.md)
+* [MLDS Terms of Service](mlds-terms-of-service.md)
+
+{% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}

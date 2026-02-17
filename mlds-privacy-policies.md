@@ -1,9 +1,5 @@
-# MLDS Privacy Policies
+# MLDS Privacy Policy
 
-{"elements":{"metas":{"hidden":true},"comments":{"hidden":true},"breadcrumb":{"hidden":true},"childpages":{"hidden":true},"sidebar":{"hidden":true},"share":{"hidden":true},"labels":{"hidden":true},"likes":{"hidden":true}},"cssSelector":"","cssSelectorLocked":false}
+{% embed url="https://www.iubenda.com/privacy-policy/724822" %}
 
-## English 
-
-[Privacy Policy](//www.iubenda.com/privacy-policy/724822 "Privacy Policy")
-
-* * *
+***
