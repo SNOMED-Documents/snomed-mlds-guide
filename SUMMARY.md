@@ -17,6 +17,7 @@
 * [Developer User Guide](developer-user-guide/README.md)
   * [MLDS Affiliate Check API Documentation](developer-user-guide/mlds-rest-api-documentation.md)
   * [MLDS Release Packages API](developer-user-guide/mlds-release-packages-api.md)
+  * [MLDS Syndication](developer-user-guide/mlds-syndication.md)
 * [Affiliate Usage Reporting](affiliate-usage-reporting.md)
 * [Application Process](application-process.md)
 * [Preguntas Frecuentes](preguntas-frecuentes.md)
