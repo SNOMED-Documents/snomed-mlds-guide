@@ -1,5 +1,4 @@
 # MLDS Terms of Service
-
 **PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS SNOMED INTERNATIONAL SITE**
 
 By continuing to browse and use this website You are agreeing to comply with and be bound by the following terms and conditions of use, which govern our relationship with You in relation to this website.
