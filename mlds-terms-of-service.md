@@ -21,3 +21,10 @@ To the extent permitted by law, we exclude all conditions, warranties, represent
 We will not be liable to You or any other person for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with: (i) Your use of, or inability to use, our website; (ii) Your use of or reliance on any content displayed on our website; or (iii) loss or damage caused by a virus or other technologically harmful material that may infect your computer equipment due to Your use of our website (or any website linked to it).
 
 Your use of this website in breach of these terms may give rise to a claim for damages and/or be a criminal offence.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=MLDS%20Terms%20of%20Service" class="button primary">Provide Feedback</a>

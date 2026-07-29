@@ -74,3 +74,10 @@ Once the end user has added the Release Package, and added at least one version,
 To add a file, see the [Release Management Technical Details](../Release-Management-Technical-Details_3833906.html) page for more details.
 
 **Page At A Glance**
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=Release%20Management" class="button primary">Provide Feedback</a>

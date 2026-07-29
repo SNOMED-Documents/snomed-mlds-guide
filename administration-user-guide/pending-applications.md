@@ -55,3 +55,10 @@ If, for whatever reason the application is not approved then Admin should click 
 This will change the status of the application to declined and the applicant will see the following screen when they log in:
 
 <figure><img src="../.gitbook/assets/6849008.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=Pending%20Applications" class="button primary">Provide Feedback</a>

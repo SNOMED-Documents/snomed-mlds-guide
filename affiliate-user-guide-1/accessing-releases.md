@@ -17,3 +17,10 @@ Once your account has been reviewed and, if applicable, any invoice has been pai
 <figure><img src="../.gitbook/assets/4292641.png" alt=""><figcaption><p>* You will notice that after you have applied for an extension or release from the selected country the section Applications will reflect the status of your Extension application. SNOMED CT is always your Primary application type.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/4292639.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=Accessing%20releases" class="button primary">Provide Feedback</a>

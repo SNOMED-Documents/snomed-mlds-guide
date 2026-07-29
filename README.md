@@ -17,3 +17,10 @@ If you want to download SNOMED CT, [please review where to get the release files
 * [MLDS Terms of Service](mlds-terms-of-service.md)
 
 {% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=MLDS%20User%20Guide" class="button primary">Provide Feedback</a>

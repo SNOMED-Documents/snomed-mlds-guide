@@ -31,3 +31,10 @@
 ### Step 2 - At this stage you can download an already approved Release Package or you can apply for any additional ones you want. Refer to the right of any Release Package for Status indication as explained below.
 
 <figure><img src="../.gitbook/assets/6849060.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=Downloading%20releases" class="button primary">Provide Feedback</a>

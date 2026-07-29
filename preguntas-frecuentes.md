@@ -35,3 +35,10 @@ Deberá contactarse con IHTSDO directamente enviando un correo electrónico a [i
 Deberá contactarse con IHTSDO directamente enviando un correo electrónico a . Por favor incluya una descripción completa para que sea posible determinar el importe de la licencia.
 
 Deberá contactarse con IHTSDO directamente enviando un correo electrónico a [info@ihtsdo.org](mailto:info@ihtsdo.org). Por favor incluya una descripción completa para que sea posible determinar el importe de la licencia.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=Preguntas%20Frecuentes" class="button primary">Provide Feedback</a>

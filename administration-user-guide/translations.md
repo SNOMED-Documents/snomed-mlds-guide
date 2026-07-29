@@ -37,3 +37,10 @@ The following files may also need to be translated before they can be added to t
 
 Please request more information from [techsupport@snomed.org](mailto://techsupport@snomed.org) if needed.
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=Translating%20MLDS" class="button primary">Provide Feedback</a>

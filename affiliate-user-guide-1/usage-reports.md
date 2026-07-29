@@ -27,3 +27,10 @@ After the initial usage report submission, towards the end of every year, and if
 If for some reason an affiliate wants to correct a usage report that has been submitted, they must first retract the usage report. They can do this by clicking on the usage report they wish to change and then click the Retract Declaration Button. They can then amend their changes and submit. Any previously submitted Usage reports for the same time period will be superseded.
 
 <figure><img src="../.gitbook/assets/4292659.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=Usage%20Reports" class="button primary">Provide Feedback</a>

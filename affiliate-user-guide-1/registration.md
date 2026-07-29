@@ -81,3 +81,10 @@
 ### Step 8. Full Access
 
 * Once your invoice is paid, your Account Information Status will change to **In Good Standing** and you will be able to access the SNOMED CT Releases as well as any other extensions or other files that are available.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-mlds-guide&entry.670899847=Registration" class="button primary">Provide Feedback</a>
